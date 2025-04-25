@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to use media selectors to style the page for different screen sizes and I also learnt how to import my own font files into my project
+I learnt how to use media selectors to style the page for different screen sizes and I also learnt how to import my own font files into my project. I also learnt how to use the calc() function.
 
 ### Continued development
 
